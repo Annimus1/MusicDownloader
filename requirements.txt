@@ -1,0 +1,2 @@
+click==8.1.7
+pytubefix==6.10.2
